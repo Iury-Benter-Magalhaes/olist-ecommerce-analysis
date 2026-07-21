@@ -68,4 +68,4 @@ jupyter notebook analise_olist.ipynb
 ## Autor
 
 Iury Benter Magalhães
-[LinkedIn](www.linkedin.com/in/iury-benter-) · [GitHub](https://github.com/Iury-Benter-Magalhaes)
+[LinkedIn](https://www.linkedin.com/in/iury-benter-/) · [GitHub](https://github.com/Iury-Benter-Magalhaes)
